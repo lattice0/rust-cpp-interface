@@ -1,0 +1,4 @@
+src/hello
+src/rust_c/target
+src/rust_c/*.a
+src/rust_c/rust_c
